@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethers": "^6.16.0",
+    "express": "^5.2.1"
+  }
+}
